@@ -9,7 +9,6 @@ Situations like the following can create complexities when we’re settling up w
 
 In such cases, this WebApp helps with quick and accurate calculations.
 
-![image](https://github.com/user-attachments/assets/08a6da30-a668-486c-94af-19b3dd20c4aa)
-![image](https://github.com/user-attachments/assets/b791c61b-0165-4c20-8942-65a8d0d7c683)
-![image](https://github.com/user-attachments/assets/2db79ac7-0dfc-46e3-b765-f89292cc14dd)
-
+![image](https://github.com/user-attachments/assets/18321f53-4efe-4fc9-9cc0-9fcd773646db)
+![image](https://github.com/user-attachments/assets/67e2fd87-4fdf-4c04-a1e1-915fdf4fcb7d)
+![image](https://github.com/user-attachments/assets/7b03edf9-9033-41df-b916-75381ddc1c58)
